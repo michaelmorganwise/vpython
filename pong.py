@@ -5,6 +5,8 @@
 #   Description: A single player, simplified version of a classic game.                       #
 ###############################################################################################
 
+# I wrote this one afternoon with a young student of mine, Kenner Bizot.
+
 from visual import *
 import random
 
